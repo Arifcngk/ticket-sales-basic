@@ -1,0 +1,13 @@
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\bin\Debug\Sinema_Bilet.exe.config
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\bin\Debug\Sinema_Bilet.exe
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\bin\Debug\Sinema_Bilet.pdb
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\obj\Debug\Sinema_Bilet.csproj.AssemblyReference.cache
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\obj\Debug\Sinema_Bilet.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\obj\Debug\Sinema_Bilet.Form1.resources
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\obj\Debug\Sinema_Bilet.Properties.Resources.resources
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\obj\Debug\Sinema_Bilet.csproj.GenerateResource.cache
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\obj\Debug\Sinema_Bilet.csproj.CoreCompileInputs.cache
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\obj\Debug\Sinema_Bilet.exe
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\obj\Debug\Sinema_Bilet.pdb
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\obj\Debug\Sinema_Bilet.BiletSatıs.resources
+C:\Users\ahey5\source\repos\Sinema_Bilet\Sinema_Bilet\obj\Debug\Sinema_Bilet.KoltukSec.resources
